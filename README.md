@@ -1,7 +1,7 @@
 # Lighthouse React Native GraphQL Chat App
 
 ## 📱 Features
-- Register users (Alice, Bob)
+- Register users (Alice, Bob) (hard-code only)
 - Send and receive messages
 - Real-time chat via GraphQL subscriptions
 
@@ -21,9 +21,3 @@
 ## 📁 Folder Structure
 - `/components`: UI components
 - `/graphql`: Queries, Mutations, Subscriptions
-
-## 📸 Demo
-📹 *Attach link to your video*
-
-## 🔗 GitHub Repository
-👉 *Insert your repo link here*
